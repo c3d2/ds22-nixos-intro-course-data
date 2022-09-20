@@ -2,6 +2,8 @@
 
 course data of the nixos introduction lecture
 
+[Hier gehts zu den Slides](https://c3d2.github.io/ds22-nixos-intro-course-data/)
+
 Wir schauen uns einfache Flake basierende NixOS Systemkonfigurationen an und versuchen Schritt für Schritt das alltägliche Arbeiten mit NixOS zu demonstrieren.
 
 Nachdem man sich das ISO Image von den NixOS-Servern heruntergeladen hat, kann das ganze über QEmu ausprobiert werden.
